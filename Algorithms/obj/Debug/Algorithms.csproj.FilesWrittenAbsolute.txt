@@ -1,0 +1,6 @@
+/home/lisa/Applications/RiderProjects/Rover-Simulation---Algorithms/Algorithms/obj/Debug/.NETFramework,Version=v4.6.AssemblyAttribute.cs
+/home/lisa/Applications/RiderProjects/Rover-Simulation---Algorithms/Algorithms/bin/Debug/Algorithms.pdb
+/home/lisa/Applications/RiderProjects/Rover-Simulation---Algorithms/Algorithms/bin/Debug/Algorithms.dll
+/home/lisa/Applications/RiderProjects/Rover-Simulation---Algorithms/Algorithms/obj/Debug/Algorithms.dll
+/home/lisa/Applications/RiderProjects/Rover-Simulation---Algorithms/Algorithms/obj/Debug/Algorithms.pdb
+/home/lisa/Applications/RiderProjects/Rover-Simulation---Algorithms/Algorithms/bin/Debug/UnityEngine.dll
